@@ -1,3 +1,10 @@
+
+## Git Collaboration
+=======================
+![Git Collaboration finish](/task_git_collaboration/Selection_008.png "Linux CLI course finished")
+![Git Collaboration finish](/task_git_collaboration/Selection_009.png "Linux CLI course finished")
+-----------------------
+After passing the first course on GIT, I was not very surprised, but now I understand how powerful this tool is and how I underestimated it. Indeed the first impression is deceptive. I am glad that now I understand this, although not completely, but I really want to move further along the course and I hope that my knowledge in GIT is enough for this. In any case, there is always someone to ask ;)
 ## Linux CLI, and HTTP
 =======================
 ![CLI course finish](/task_linux_cli/Selection_003.png "Linux CLI course finished")
