@@ -1,3 +1,11 @@
+## Intro to HTML and CSS
+========================
+![CSS+HTML intro](/task_git_collaboration/Selection_011.png "html css progress")
+![CSS+HTML intro](/task_git_collaboration/Selection_014.png "html css progress")
+![CSS+HTML intro](/task_git_collaboration/Selection_015.png "html css progress")
+![GCSS+HTML intro](/task_git_collaboration/Selection_016.png "html css progress")
+-----------------------
+This part of the course was very difficult, because I went through the basics of CSS and HTML not so long ago. I did not learn anything new, but for the sake of honestly passing the course I did not allow myself to skip this part and completed all the tasks (for free). I did not proceed to paid assignments on htmlacademy, since I see no reason to pay for learning what I already know or can find in the public domain. Ahead of "responsive web design" is a topic that I look forward to.
 
 ## Git Collaboration
 =======================
