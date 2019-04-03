@@ -1,3 +1,11 @@
+## Responsive Web Design
+![Responsive Web Design](/task_responsive_web_design/Selection_021.png "responsive tasks finished")
+![Responsive Web Design](/task_responsive_web_design/Selection_022.png "responsive tasks finished")
+![Responsive Web Design](/task_responsive_web_design/Selection_023.png "responsive tasks finished")
+
+I really like this theme and I will gladly use responsive web design in the future. In particular, flexbox, grid, media queries and patterns of responsive design, such as: "Off canvas", "Layout shifter", "Mostly fluid" & "Responsive design".
+There is still a lot of work ahead. Getting to practice.
+
 ## Intro to HTML and CSS
 ![CSS+HTML intro](/task_html_css_intro/Selection_011.png "html css progress")
 ![CSS+HTML intro](/task_html_css_intro/Selection_014.png "html css progress")
