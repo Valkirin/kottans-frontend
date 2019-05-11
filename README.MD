@@ -1,3 +1,14 @@
+## JS Basics
+![JS Basics](/task_js_basics/Selection_000.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_001.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_002.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_003.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_004.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_005.png "basic js finished")
+![JS Basics](/task_js_basics/Selection_006.png "basic js finished")
+
+Finally completed this task. I must say that it has changed a lot. Although this is all the tip of the iceberg, I have never gone so far before in studying javascript. I liked solve tasks of ES6, data structures, but somethings like the structures of algorithms were quite difficult. Outside the course, I additionally went through regular expressions, since they were also found in algorithms. In general, I'm glad that I have passed this part and I think that I'm ready to go further.
+
 ## Responsive Web Design
 ![Responsive Web Design](/task_responsive_web_design/Selection_021.png "responsive tasks finished")
 ![Responsive Web Design](/task_responsive_web_design/Selection_022.png "responsive tasks finished")
