@@ -1,3 +1,10 @@
+## DOM
+![JS-DOM](/task_js_dom/udacity.png "dom js finished")
+![JS-DOM](/task_js_dom/fccias.png "dom js finished")
+
+Everything in this task was new to me. I hope that I learned the lesson well. 
+Although task was not very difficult, but I solve it a long time. It's hard for me to concentrate, but I, although slowly, are moving forward and this is good.
+
 ## JS Basics
 ![JS Basics](/task_js_basics/Selection_000.png "basic js finished")
 ![JS Basics](/task_js_basics/Selection_001.png "basic js finished")
