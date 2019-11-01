@@ -1,3 +1,11 @@
+## Object Oriented JS
+![OOP](/task_js_oop/jsoopuda.png "oop js finished")
+
+7kyu
+https://www.codewars.com/users/Valkirin
+
+It was very difficult to understand the prototypes. Even now I’m not sure that I understood everything. I think more practice is needed and in time I will learn. Only forward!
+
 ## DOM
 ![JS-DOM](/task_js_dom/udacity.png "dom js finished")
 ![JS-DOM](/task_js_dom/fccias.png "dom js finished")
