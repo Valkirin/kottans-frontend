@@ -1,8 +1,9 @@
 ## Object Oriented JS
-![OOP](/task_js_oop/jsoopuda.png "oop js finished")
+![OOP](/task_js_oop/jsoopuda.PNG "oop js finished")
 
-7kyu
-https://www.codewars.com/users/Valkirin
+![Frogger game](https://valkirin.github.io/frontend-nanodegree-arcade-game/)
+
+![Codewars](https://www.codewars.com/users/Valkirin)
 
 It was very difficult to understand the prototypes. Even now I’m not sure that I understood everything. I think more practice is needed and in time I will learn. Only forward!
 
